@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AndroidBaseTest</string>
+        <string name="title_activity_activity_lifecycle_test">ActivityLifecycleTest</string>
+    <string name="title_activity_activity_lifecycle_test02">ActivityLifecycleTest02</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+</resources>
