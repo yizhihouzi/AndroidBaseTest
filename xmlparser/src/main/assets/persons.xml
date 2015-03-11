@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<persons>
+    <person>
+        <id>001</id>
+        <name>张三</name>
+        <sex>男</sex>
+    </person>
+    <person>
+        <id>002</id>
+        <name>李四</name>
+        <sex>男</sex>
+    </person>
+    <person>
+        <id>003</id>
+        <name>王二麻子</name>
+        <sex>男</sex>
+    </person>
+</persons>
