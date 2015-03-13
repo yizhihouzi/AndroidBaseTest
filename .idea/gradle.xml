@@ -10,7 +10,9 @@
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/ActivityLifeCycleTest" />
-            <option value="$PROJECT_DIR$/xmlparser" />
+            <option value="$PROJECT_DIR$/AndroidApiDemos" />
+            <option value="$PROJECT_DIR$/ServiceTest" />
+            <option value="$PROJECT_DIR$/XmlParser" />
           </set>
         </option>
       </GradleProjectSettings>
